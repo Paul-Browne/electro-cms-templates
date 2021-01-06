@@ -2,7 +2,7 @@
 	"name": "footer",
 	"version": "1.0.0",
 	"description": "A simple footer",
-	"type": "component",	// component, layout or page
+	"type": "component",
 	"properties": [
 		{
 			"name": "test",
