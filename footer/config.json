@@ -2,10 +2,11 @@
 	"name": "footer",
 	"version": "1.0.0",
 	"description": "A simple footer",
+	"type": "component",	// component, layout or page
 	"properties": [
 		{
 			"name": "test",
-			"type": "string",
+			"type": "string",	
 			"label": "some text..."
 		}
 	]
