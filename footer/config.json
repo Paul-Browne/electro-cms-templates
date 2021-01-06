@@ -1,0 +1,12 @@
+{
+	"name": "footer",
+	"version": "1.0.0",
+	"description": "A simple footer",
+	"properties": [
+		{
+			"name": "test",
+			"type": "string",
+			"label": "some text..."
+		}
+	]
+}
