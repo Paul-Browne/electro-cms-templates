@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "A simple footer",
 	"type": "component",
+	"files":[
+		"index.html"
+	],
 	"properties": [
 		{
 			"name": "test",
