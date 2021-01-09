@@ -2,15 +2,32 @@
 	"name": "footer",
 	"version": "1.0.0",
 	"description": "A simple footer",
+	"author": "Paul Browne",
+	"license": "MIT",
+	"icon": "icon.png",
+	"main": "index.js",
 	"type": "component",
-	"files":[
-		"index.html"
+	"previewImages": [
+		"sample/image-1.png",
+		"sample/image-2.png",
+		"sample/image-3.png"
 	],
-	"properties": [
-		{
+	"options": [
+		{	
 			"name": "test",
-			"type": "string",	
-			"label": "some text..."
-		}
+			"required": true,
+			"type": "string",
+			"label": "copy text for the footer"
+		},
+		{	
+			"name": "width",
+			"type": "number",
+			"label": "width in px of the content"
+		},
+		{	
+			"name": "showYear",
+			"type": "boolean",
+			"label": "show the current year?"
+		}		
 	]
 }
