@@ -8,9 +8,9 @@
 	"main": "index.js",
 	"type": "component",
 	"previewImages": [
-		"sample/image-1.png",
-		"sample/image-2.png",
-		"sample/image-3.png"
+		"samples/image-1.png",
+		"samples/image-2.png",
+		"samples/image-3.png"
 	],
 	"options": [
 		{	
